@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yassine
-- 👀 I’m interested in Algorithms, Embedded systems and Cybersecurity
+- 👀 I’m interested in Embedded Software Developement
 - 🌱 I’m currently working as a software engineer in automotive field 
 - 📫 How to reach me : mohamedyassine.yaich@ensi-uma.tn
 
